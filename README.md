@@ -11,4 +11,5 @@ A simple Node.js and Express.js application that provides weather data for users
 - MongoDB
 - An openWeatherMap API Key
 
-  
+## vercel Url -
+https://weather-2y71d5zkp-dulakshi2002s-projects.vercel.app/  
